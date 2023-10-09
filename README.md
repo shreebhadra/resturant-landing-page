@@ -7,3 +7,6 @@
   <li>Then open new terminal and type "npm install" to install all modules that are listed on package. json file and their dependencies.</li>
   <li>Then type "npm start" the react project will run.</li>
 </ol>
+
+<br>See the hosted website<br>
+Here: https://shreebhadra.github.io/resturant-landing-page/
