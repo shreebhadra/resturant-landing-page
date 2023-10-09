@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/resturant-landing-page/static/css/main.42300d1c.css",
+    "main.js": "/resturant-landing-page/static/js/main.791e04ca.js",
+    "static/media/home-banner-image.png": "/resturant-landing-page/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/resturant-landing-page/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/rachel claire.png": "/resturant-landing-page/static/media/rachel claire.5418d2baa2d48e371220.png",
+    "static/media/home-banner-background.png": "/resturant-landing-page/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/resturant-landing-page/static/media/Logo.56ad59d23ceff242946a01628e79e275.svg",
+    "index.html": "/resturant-landing-page/index.html",
+    "main.42300d1c.css.map": "/resturant-landing-page/static/css/main.42300d1c.css.map",
+    "main.791e04ca.js.map": "/resturant-landing-page/static/js/main.791e04ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.791e04ca.js"
+  ]
+}
